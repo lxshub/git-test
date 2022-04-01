@@ -1,0 +1,11 @@
+package cn.edu.zut;
+
+/**
+ * @author: lee
+ * @date: 2022年04月01日 21:50
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
